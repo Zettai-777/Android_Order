@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="enter_your_name">Введите Ваше имя</string>
+    <string name="no">Неа</string>
+    <string name="no_plus">Отказать!</string>
+    <string name="order">Заказ</string>
+    <string name="order_form">"Имя: %s\nБыть может взбитых сливок?  %s\nА шоколаду не желаете ли?  %s\nКоличество: %d\nСтоимость %d$\nПремного благодарны за заказ!"
+    </string>
+    <string name="quantity">количество</string>
+    <string name="send_email">Отправить почтой</string>
+    <string name="tittle_message">Заказ из приложения JustJava для </string>
+    <string name="too_less_cups">Ты не можешь заказать меньше одной чашки кофе, шутник!</string>
+    <string name="too_many_coffee">Ты свихнёшься к чертям, если выпьешь столько коффе!</string>
+    <string name="toppings">Топпинги</string>
+    <string name="whipped_cream">Взбитые сливки</string>
+    <string name="yes">Так точно!</string>
+    <string name="yes_plus">Чертовски да!</string>
+    <string name="order_summary">Полный заказ</string>
+</resources>

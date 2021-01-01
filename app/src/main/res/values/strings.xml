@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="toppings">toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">quantity</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="two" translatable="false">2</string>
+    <string name="plus">+</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="_10" translatable="false">$10</string>
+    <string name="order">order</string>
+    <string name="send_email">Send email</string>
+    <string name="too_many_coffee">You are going fucking crazy if drink that much coffee!</string>
+    <string name="order_form">"Name: %s Add whipped cream? %s Maybe chocolate? %s Quantity: %d Total price: %d$ Thank
+        you! "
+    </string>
+    <string name="yes">Yeap</string>
+    <string name="no">Nope</string>
+    <string name="yes_plus">Hell yeah!</string>
+    <string name="no_plus">Refused!</string>
+    <string name="too_less_cups">You cannot have less than 1 cup of coffee</string>
+    <string name="tittle_message">JustJava order for </string>
+</resources>
